@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413979436 source:c:\users\informatika\desktop\dogtask\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstring>
+

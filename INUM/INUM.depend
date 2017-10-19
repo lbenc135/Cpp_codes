@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409825809 source:c:\users\livio\documents\my documents\programming\c++\inum\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstdlib>
+

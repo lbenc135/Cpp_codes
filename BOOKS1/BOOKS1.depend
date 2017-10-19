@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416133014 source:c:\users\livio\documents\my documents\programming\c++\books1\main.cpp
+	<cstdio>
+	<vector>
+	<algorithm>
+

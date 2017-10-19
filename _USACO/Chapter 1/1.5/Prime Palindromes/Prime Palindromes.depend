@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420973066 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.5\prime palindromes\main.cpp
+	<cstdio>
+	<cmath>
+	<vector>
+

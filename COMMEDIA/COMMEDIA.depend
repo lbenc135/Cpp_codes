@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409496193 source:c:\users\livio\documents\my documents\programming\c++\commedia\main.cpp
+	<cstdio>
+	<algorithm>
+

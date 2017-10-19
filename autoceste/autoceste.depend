@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1390301138 source:c:\users\informatika\desktop\autoceste\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdio>
+	<sstream>
+

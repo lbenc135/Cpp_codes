@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1420806292 source:c:\users\livio\documents\my documents\programming\c++\laser maze\main.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+	<iostream>
+

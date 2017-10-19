@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419425506 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.1\broken necklace\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

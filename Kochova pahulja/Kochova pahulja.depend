@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1427188527 source:c:\users\livio\documents\my documents\programming\c++\sierpinski krivulja\main.cpp
+	<graphics.h>
+	<cstdio>
+	<cmath>
+
+1266094214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1427191504 source:c:\users\livio\documents\my documents\programming\c++\kochova pahulja\main.cpp
+	<graphics.h>
+	<cstdio>
+	<cmath>
+

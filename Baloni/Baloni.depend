@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418037270 source:c:\users\livio\documents\my documents\programming\c++\baloni\main.cpp
+	<cstdio>
+	<list>
+	<algorithm>
+

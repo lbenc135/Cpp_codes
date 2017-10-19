@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425976682 source:c:\users\livio\documents\my documents\programming\c++\linux\main.cpp
+	<iostream>
+	<map>
+

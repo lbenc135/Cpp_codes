@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416502773 source:c:\users\livio\documents\my documents\programming\c++\dna\main.cpp
+	<cstdio>
+	<algorithm>
+

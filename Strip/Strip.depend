@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416940241 source:c:\users\livio\documents\my documents\programming\c++\strip\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419183346 source:c:\users\livio\documents\my documents\programming\c++\psenica\main.cpp
+	<cstdio>
+	<queue>
+

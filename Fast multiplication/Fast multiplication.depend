@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416061171 source:c:\users\livio\documents\my documents\programming\c++\fast multiplication\main.cpp
+	<cstdio>
+	<cstring>
+

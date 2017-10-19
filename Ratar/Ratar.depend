@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412430512 source:c:\users\livio\documents\my documents\programming\c++\ratar\main.cpp
+	<cstdio>
+	<cstring>
+

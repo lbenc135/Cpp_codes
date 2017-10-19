@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417543341 source:c:\users\livio\documents\my documents\programming\c++\nedostaju_ucenici\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

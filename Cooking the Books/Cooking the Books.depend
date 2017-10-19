@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420798083 source:c:\users\livio\documents\my documents\programming\c++\cooking the books\main.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+

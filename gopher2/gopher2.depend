@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413977122 source:c:\users\informatika\desktop\gopher2\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstring>
+

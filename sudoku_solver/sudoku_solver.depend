@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417881484 source:c:\users\livio\documents\my documents\programming\c++\sudoku_solver\main.cpp
+	<cstdio>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1421438231 source:c:\users\livio\documents\my documents\programming\c++\2usaco\chapter 2\2.1\ordered fractions\main.cpp
+	<cstdio>
+	<functional>
+	<vector>
+	<algorithm>
+

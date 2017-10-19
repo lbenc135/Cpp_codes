@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421396492 source:c:\users\livio\documents\my documents\programming\c++\2usaco\chapter 2\2.1\the castle\main.cpp
+	<cstdio>
+	<vector>
+	<cstring>
+

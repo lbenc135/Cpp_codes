@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503907795 source:c:\users\lbenc\desktop\motorbikes\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

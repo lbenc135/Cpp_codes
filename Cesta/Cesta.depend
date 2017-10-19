@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419073301 source:c:\users\mis21\desktop\cesta\main.cpp
+	<cstdio>
+	<functional>
+	<algorithm>
+	<cstring>
+

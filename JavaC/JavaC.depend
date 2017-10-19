@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409298287 source:c:\users\livio\documents\my documents\programming\c++\javac\main.cpp
+	<iostream>
+	<cstdio>
+

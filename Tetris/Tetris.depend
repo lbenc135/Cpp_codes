@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1424177927 source:c:\users\inf\desktop\tetris\main.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1424523680 source:c:\users\livio\desktop\tetris\main.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+

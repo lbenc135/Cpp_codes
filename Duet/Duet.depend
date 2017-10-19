@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425715372 source:c:\users\mis strahoninec\desktop\duet\main.cpp
+	<cstdio>
+	<algorithm>
+

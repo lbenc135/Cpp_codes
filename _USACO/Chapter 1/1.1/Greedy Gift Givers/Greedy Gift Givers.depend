@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419421786 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.1\greedy gift givers\main.cpp
+	<cstdio>
+	<map>
+	<string>
+

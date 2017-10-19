@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1451058282 source:c:\users\lbenc\documents\my documents\programming\c++\meterpreter_bindtcp_fud\main.cpp
+	<cstring>
+	<cstdlib>
+	<windows.h>
+
+1452527496 source:c:\users\lbenc\documents\my documents\programming\c++\meterpreter_bindtcp_fud\meterpreter module\main.cpp
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<windows.h>
+

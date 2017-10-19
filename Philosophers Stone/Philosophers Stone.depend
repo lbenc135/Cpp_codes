@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392051222 source:c:\users\livio\documents\my documents\programming\c++\philosophers stone\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1424375644 source:c:\users\livio\documents\my documents\programming\c++\hakeri\main.cpp
+	<cstdio>
+	<string>
+	<cstring>
+	<vector>
+

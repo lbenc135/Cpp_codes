@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448698949 source:c:\users\mis strahoninec\desktop\esej\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<map>
+

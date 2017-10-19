@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413624724 source:c:\users\mis strahoninec\desktop\piramida\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419931176 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.2\milking cows\main.cpp
+	<cstdio>
+	<algorithm>
+	<utility>
+

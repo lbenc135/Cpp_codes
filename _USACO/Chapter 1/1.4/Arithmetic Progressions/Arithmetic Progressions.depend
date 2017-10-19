@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1420812243 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.4\arithmetic progressions\main.cpp
+	<cstdio>
+	<utility>
+	<vector>
+	<algorithm>
+

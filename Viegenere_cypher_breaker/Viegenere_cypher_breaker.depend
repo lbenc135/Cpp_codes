@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1422868727 source:c:\users\livio\documents\my documents\programming\c++\viegenere_cypher_breaker\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<array>
+

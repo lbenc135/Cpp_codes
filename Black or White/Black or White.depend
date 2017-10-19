@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426339262 source:c:\users\livio\documents\my documents\programming\c++\black or white\main.cpp
+	<cstdio>
+	<vector>
+	<algorithm>
+

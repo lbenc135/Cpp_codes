@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417097549 source:c:\users\livio\documents\my documents\programming\c++\iste_znamenke\main.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+

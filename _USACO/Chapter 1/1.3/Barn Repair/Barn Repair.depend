@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420361063 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.3\barn repair\main.cpp
+	<cstdio>
+	<algorithm>
+	<functional>
+

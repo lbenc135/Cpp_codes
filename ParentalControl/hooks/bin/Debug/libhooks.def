@@ -1,0 +1,5 @@
+EXPORTS
+    DllMain@12 @1
+    KillKBHook @2
+    LLHook@12 @3
+    SetKBHook @4

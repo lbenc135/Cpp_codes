@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420481941 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.3\wormholes\main.cpp
+	<cstdio>
+	<algorithm>
+

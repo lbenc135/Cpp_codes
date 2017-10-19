@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403604602 source:c:\users\livio\documents\my documents\programming\c++\parentalcontrol\runhook\main.cpp
+	<windows.h>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415906419 source:c:\users\livio\documents\my documents\programming\c++\defkin\main.cpp
+	<cstdio>
+	<algorithm>
+	<utility>
+

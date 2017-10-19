@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1376290819 source:c:\users\tiger\documents\my documents\programming\c++\super mario\main.cpp
+	<iostream>
+	<queue>
+
+1387714907 source:c:\users\livio\documents\my documents\programming\c++\super mario\main.cpp
+	<iostream>
+	<queue>
+
+1415183334 source:c:\users\livio\documents\my documents\programming\c++\nataliag\main.cpp
+	<cstdio>
+	<queue>
+	<cstring>
+

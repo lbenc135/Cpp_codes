@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426161801 source:c:\users\livio\documents\my documents\programming\c++\drzavno_practice\najv_nepad_podn\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+

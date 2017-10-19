@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1400258550 source:c:\users\livio\documents\my documents\programming\c++\parentalcontrol\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
+1400254950 source:e:\programming\c++\parentalcontrol\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
+1400254950 source:c:\users\informatika\desktop\parentalcontrol\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
+1402064087 source:c:\users\livio\documents\my documents\programming\c++\parentalcontrol\background.cpp
+	<windows.h>
+	<ctime>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<cmath>
+
+1401981450 source:c:\users\livio\documents\my documents\programming\c++\parentalcontrol\runhook.cpp
+	<windows.h>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416143728 source:c:\users\livio\documents\my documents\programming\c++\numguess\main.cpp
+	<cstdio>
+	<cstring>
+

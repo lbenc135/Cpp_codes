@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467213967 source:c:\users\lbenc\documents\documents\programming\c++\pipe_bidirectional\main.cpp
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	<iostream>
+
+1467099878 source:c:\users\lbenc\documents\documents\programming\c++\pipe_bidirectional\child.cpp
+	<windows.h>
+	<stdio.h>
+

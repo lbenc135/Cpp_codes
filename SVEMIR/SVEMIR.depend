@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1424341341 source:c:\users\livio\documents\my documents\programming\c++\svemir\main.cpp
+	<cstdio>
+	<utility>
+	<cstring>
+	<queue>
+

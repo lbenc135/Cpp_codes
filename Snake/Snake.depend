@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1428407670 source:c:\users\inf\desktop\snake\main.cpp
+	<cstdio>
+	<vector>
+	<graphics.h>
+
+1428486431 source:c:\users\livio\desktop\snake\main.cpp
+	<cstdio>
+	<vector>
+	<ctime>
+	<graphics.h>
+	<cstdlib>
+
+1428480412 source:l:\snake\main.cpp
+	<cstdio>
+	<vector>
+	<ctime>
+	<graphics.h>
+	<cstdlib>
+

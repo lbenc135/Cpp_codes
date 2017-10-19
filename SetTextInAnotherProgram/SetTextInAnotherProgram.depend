@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451398911 source:c:\users\lbenc\documents\my documents\programming\c++\settextinanotherprogram\main.cpp
+	<windows.h>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392751420 source:c:\users\livio\documents\my documents\programming\c++\klingonci\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

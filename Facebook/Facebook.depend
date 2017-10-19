@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415106652 source:c:\users\livio\documents\my documents\programming\c++\facebook\main.cpp
+	<iostream>
+	<vector>
+

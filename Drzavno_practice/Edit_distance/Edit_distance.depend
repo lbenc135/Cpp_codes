@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426153257 source:c:\users\livio\documents\my documents\programming\c++\drzavno_practice\edit_distance\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+

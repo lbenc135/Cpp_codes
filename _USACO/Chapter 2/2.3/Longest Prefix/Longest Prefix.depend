@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1425990998 source:c:\users\inf\desktop\longest prefix\main.cpp
+	<iostream>
+	<vector>
+
+1426172278 source:c:\users\livio\desktop\longest prefix\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

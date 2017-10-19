@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1421834719 source:c:\users\informatika\desktop\kamioni\main.cpp
+	<cstdio>
+	<cstring>
+
+1421834841 source:f:\infokup\kamioni\main.cpp
+	<cstdio>
+	<cstring>
+

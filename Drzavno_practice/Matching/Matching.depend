@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426253622 source:c:\users\livio\documents\my documents\programming\c++\drzavno_practice\matching\main.cpp
+	<cstdio>
+	<vector>
+	<algorithm>
+

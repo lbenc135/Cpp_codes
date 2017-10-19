@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420894582 source:c:\users\livio\documents\my documents\programming\c++\2usaco\1.4\mother's milk\main.cpp
+	<cstdio>
+	<set>
+	<algorithm>
+

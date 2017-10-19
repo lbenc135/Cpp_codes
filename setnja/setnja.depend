@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1388853862 source:c:\users\livio\documents\my documents\programming\c++\setnja\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

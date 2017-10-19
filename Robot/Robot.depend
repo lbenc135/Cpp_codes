@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378563103 source:c:\users\tiger\documents\my documents\programming\c++\robot\main.cpp
+	<iostream>
+	<string>
+

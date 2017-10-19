@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1397726523 source:c:\users\livio\documents\my documents\programming\c++\mail_curl\main.cpp
+	<stdio.h>
+	<string.h>
+	<curl/curl.h>
+
+1397415635 c:\users\livio\documents\my documents\programming\c++\mail_curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1395820148 c:\users\livio\documents\my documents\programming\c++\mail_curl\curlver.h
+
+1395820148 c:\users\livio\documents\my documents\programming\c++\mail_curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1378681875 c:\users\livio\documents\my documents\programming\c++\mail_curl\curlrules.h
+
+1378681875 c:\users\livio\documents\my documents\programming\c++\mail_curl\easy.h
+
+1388963274 c:\users\livio\documents\my documents\programming\c++\mail_curl\multi.h
+	"curl.h"
+
+1391123481 c:\users\livio\documents\my documents\programming\c++\mail_curl\typecheck-gcc.h
+

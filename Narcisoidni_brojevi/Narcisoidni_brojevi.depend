@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1385308193 source:c:\users\livio\documents\my documents\programming\c++\narcisoidni_brojevi\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<cstdio>
+

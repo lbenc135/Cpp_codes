@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1451674381 source:c:\users\lbenc\documents\my documents\programming\c++\automaticmscvaluecalc\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+

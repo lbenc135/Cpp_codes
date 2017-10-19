@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411061799 source:c:\users\livio\documents\my documents\programming\c++\arhitekti\main.cpp
+	<cstdio>
+	<algorithm>
+

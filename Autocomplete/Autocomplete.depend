@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421578880 source:c:\users\livio\documents\my documents\programming\c++\autocomplete\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+

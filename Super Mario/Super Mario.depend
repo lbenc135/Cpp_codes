@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1376290819 source:c:\users\tiger\documents\my documents\programming\c++\super mario\main.cpp
+	<iostream>
+	<queue>
+

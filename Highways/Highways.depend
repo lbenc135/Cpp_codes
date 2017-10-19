@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1416918180 source:c:\users\livio\documents\my documents\programming\c++\highways\main.cpp
+	<cstdio>
+	<vector>
+	<queue>
+	<cstring>
+	<climits>
+	<functional>
+

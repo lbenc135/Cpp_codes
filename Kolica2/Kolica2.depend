@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1391954060 source:c:\users\livio\documents\my documents\programming\c++\kolica2\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

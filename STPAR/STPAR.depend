@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416313607 source:c:\users\livio\documents\my documents\programming\c++\stpar\main.cpp
+	<cstdio>
+	<stack>
+
